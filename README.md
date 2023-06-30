@@ -1,7 +1,7 @@
 # NOTES KEEPER
 
 
-This is a Google Keep inspired, Notes keepind app. The best part is All the notes you save are kept on Google Firebase account!
+This is a Google Keep inspired, Notes keeping app. The best part is All the notes you save are kept on Google Firebase account!
 
 So, no more worrying about giving access to your secrets to 3rd-party companies.
 
