@@ -9,7 +9,7 @@ Built in <b>React.js</b> with ❤️
 
 
 #### View Live Demo
-  <pre><center><a href=""><b>keep.com</b></a></center></pre>
+  <pre><center><a href="https://noteviewer.netlify.app/"><b>noteviewer.netlify.app</b></a></center></pre>
 
 ## Setup
 
